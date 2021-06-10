@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/zhangyingmei/nuxt-test/sass-h5/pages/article"
+      }
+    ]
+  }
+]
