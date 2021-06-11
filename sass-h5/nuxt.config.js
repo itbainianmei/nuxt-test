@@ -1,7 +1,6 @@
 /**
  * Nuxt.js 配置文件
  */
-
 module.exports = {
   router: {
     linkActiveClass: 'active',
